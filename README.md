@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing , machine learning
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on small web developing projects
-- 📫 How to reach me , eamil on = sinhaoscorp15@gmail.com
+- 📫 How to reach me , email on = sinhaoscorp15@gmail.com
 
 <!---
 Sandip295/Sandip295 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
